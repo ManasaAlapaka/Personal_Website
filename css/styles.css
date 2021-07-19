@@ -79,6 +79,9 @@ a:hover{
   margin-left: 30px;
 
 }
+.basge{
+  width: 40%;
+}
 .profile-image{
   border-radius: 50%;
   background-color: #E4F9F9;
@@ -91,6 +94,7 @@ a:hover{
   text-align: left;
 
 }
+
 .introduction{
   width: 40%;
   margin: auto;
@@ -111,14 +115,19 @@ p{
   margin-top: 80px;
   padding-bottom: 50px;
 }
-.badges{
-  margin-top: 80px;
-  padding-bottom: 50px;
 
-}
 .contact-me{
-  margin-top: 80px;
+  margin: 80px auto;
   padding-bottom: 50px;
+  width: 40%;
+  text-align: center;
+}
+.badges{
+  margin: 80px auto;
+  padding-bottom: 50px;
+  /* width: 40%;
+  /* text-align: center; */ */
+
 }
 .msg{
   margin-bottom: 50px;
@@ -171,3 +180,4 @@ hr{
    border-radius: 12px;
    text-decoration: none;
 }
+

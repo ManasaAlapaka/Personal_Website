@@ -79,8 +79,10 @@ a:hover{
   margin-left: 30px;
 
 }
-.basge{
+.badge{
   width: 40%;
+  margin: 10px auto;
+  text-align: center;
 }
 .profile-image{
   border-radius: 50%;
@@ -180,4 +182,3 @@ hr{
    border-radius: 12px;
    text-decoration: none;
 }
-
